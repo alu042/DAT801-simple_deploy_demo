@@ -1,5 +1,0 @@
-pandas
-pycaret[full]
-voila
-bqplot
-ipywidgets
